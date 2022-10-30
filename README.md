@@ -1,5 +1,5 @@
 # Website Link
- (`https://linktree-task1.netlify.app/`)
+ [Go to](https://linktree-task1.netlify.app/)
 
 # Getting Started with Create React App
 
