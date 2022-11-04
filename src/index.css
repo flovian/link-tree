@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+.contact-page {
+  scale: 0.8;
+}
+
+.goBack-btn {
+  margin-right: 5px;
+}
+
+@media screen and (max-width:576px) {
+  .contact-page {
+      scale: 1;
+      margin-top: 50px;
+  }
+  .goBack-btn {
+      margin-right: 0;
+      margin-bottom: 10px;
+  }
+}
