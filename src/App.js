@@ -3,6 +3,7 @@ import React from 'react';
 import Home from './Home';
 import Header from './Header';
 import Footer from './Footer';
+import Contact from './Contact'
 
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <Header />
       <Home />
       <Footer />
+      <Contact/>
     </div>
   );
 }
